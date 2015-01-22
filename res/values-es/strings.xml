@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScrapbookingApp</string>
+    
+    <string name="action_settings">Ajustes</string>
+    <string name="sydneyopera">Sydney Opera House</string>
+    <string name="mount">Monte Rushmore</string>
+    <string name="tajmahal">Taj Mahal</string>
+    <string name="yokohama">Yokohama Torre</string>
+
+</resources>
